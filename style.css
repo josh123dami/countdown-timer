@@ -1,0 +1,67 @@
+h1 {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color: rgb(34, 34, 150);
+  body {
+    width: 100%;
+    min-height: 100vh;
+    background-color: #fff;
+    background-image: url("/iphone.image.webp");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+#timer {
+  font-size: 2em;
+  margin-top: 50px;
+  text-align: center;
+  color: aliceblue;
+  background-color: rgba(1, 1, 24, 0.945);
+  display: block;
+  border: 20px;
+  margin-left: 120px;
+  margin-right: 120px;
+  padding: 20px;
+}
+.writing {
+  color: white;
+}
+img {
+  margin-left: 520px;
+  margin-right: 450px;
+  margin-top: 30px;
+  width: 270px;
+  height: 270px;
+  width: 300px;
+}
+
+body {
+  background-color: rgba(124, 57, 69, 0.849);
+}
+
+p {
+  color: white;
+}
+
+.digital-clock {
+  font-family: monospace;
+  text-align: center;
+  background-color: #f0f0f0;
+  border: 2px solid #333;
+  padding: 20px;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+
+li.seperator {
+  margin: 0 10px;
+  font-size: 6rem;
+  line-height: 1;
+  color: #f41b4b;
+}
